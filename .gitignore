@@ -1,0 +1,74 @@
+# ======================
+# BACKEND (Spring Boot)
+# ======================
+backend/target/
+backend/.idea/
+backend/.vscode/
+backend/*.iml
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.log
+backend/logs/
+backend/.DS_Store
+
+# ======================
+# FRONTEND (React)
+# ======================
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/build/
+frontend/dist/
+frontend/.DS_Store
+
+# ======================
+# IDE FILES
+# ======================
+.metadata/
+.project
+.idea/
+.vscode/
+*.code-workspace
+*.iml
+
+# ======================
+# PYTHON (Flask)
+# ======================
+__pycache__/
+*.pyc
+
+# ======================
+# ENV FILES
+# ======================
+.env
+.env.local
+
+# ======================
+# OS FILES
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# TEMP / SYSTEM FILES
+# ======================
+*.swp
+*.swo
+*~
+
+# ======================
+# LOG FILES
+# ======================
+*.log
+
+# ======================
+# GENERATED FILES
+# ======================
+static/chart.png
